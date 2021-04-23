@@ -1,0 +1,5 @@
+
+Q
+java:S18541";Remove this useless assignment to local variable "message".(®«‚Ó
+D
+java:S11211".Extract the assignment out of this expression.(®«‚Ó

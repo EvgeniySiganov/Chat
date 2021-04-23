@@ -1,0 +1,11 @@
+
+\
+java:S2259R"FA "NullPointerException" could be thrown; "userName" is nullable here.(äÄ«õ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ˆÚÕ§úÿÿÿÿ
+>
+java:S2189“""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+2
+java:S3626—"Remove this redundant jump.(ÉŠ©ƒ
+s	java:S135c"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
